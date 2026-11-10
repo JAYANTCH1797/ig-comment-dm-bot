@@ -1,0 +1,14 @@
+{
+  "default": {},
+  "reels": {
+    "REPLACE_WITH_YOUR_REEL_MEDIA_ID": {
+      "label": "Example reel (a note for you; the bot ignores it)",
+      "keywords": {
+        "guide": {
+          "dm": "Here's the guide you asked for 📘\nhttps://example.com/guide",
+          "reply": ["Thanks! Just sent it to your DMs 📩", "Check your DMs 🙌", "Sent! Check your inbox 📬", "Done, it's in your DMs ✨"]
+        }
+      }
+    }
+  }
+}
