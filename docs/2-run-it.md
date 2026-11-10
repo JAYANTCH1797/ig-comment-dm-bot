@@ -38,12 +38,6 @@ Meta requires a free **business portfolio**, a container for your accounts. It i
 3. Connect your **business portfolio** when asked.
 4. Ignore the "Become a Tech Provider" box. It's only for apps serving other businesses.
 
-> **Wrong turns we took:** the **Tools → Developer Tools** menu (first screenshot) and old doc links (second) are dead ends. Start from **My Apps**.
-
-![Wrong turn: Developer Tools page](images/01-wrong-turn-developer-tools.png)
-
-![Wrong turn: old link, page not found](images/02-wrong-turn-page-not-found.webp)
-
 ![My Apps list](images/03-apps-list.webp)
 
 ![App dashboard: open the Instagram use case](images/04-app-dashboard.webp)
